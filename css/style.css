@@ -1,0 +1,16 @@
+body {
+    background: url("../images/cup-of-coffee.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+
+.head {
+    color: white;
+    margin-top: 20%;
+    font-family: 'Aladin', cursive;
+}
+
+.ima {
+    height: 100px;
+    width: 200px;
+    border-radius: 25px;
+}
